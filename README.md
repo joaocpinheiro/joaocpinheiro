@@ -1,6 +1,22 @@
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">I solve great challenges using tech. <br><br> Front-end development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions.</p>&nbsp;
+<p align="center">Front-end Developer
+
+📧 Email: joaocpinheiro03@gmail.com
+
+Technical Skills:
+
+Tech stack: Next, React, TypeScript, JavaScript, Tailwind, Styled Components, HTML, CSS
+Version Control: Git, GitHub
+
+Who I Am:
+
+I am a front-end developer passionate about crafting impactful interfaces. My skills in HTML, CSS, and JavaScript are complemented by experience with frameworks such as Next and React, enhanced by a styling approach using Tailwind and Styled Components.
+
+Education:
+Graduated in Analysis and Systems Development.
+
+Always seeking new challenges and opportunities. If you are looking for a dedicated front-end developer committed to creating exceptional digital experiences and is eager for new challenges, you can count on me!</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=joaocpinheiro&theme=radical&mode=weekly" />
@@ -15,6 +31,7 @@
 
 #### Main Stack:
 
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
