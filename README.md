@@ -6,7 +6,7 @@
 
 Technical Skills:
 
-Tech stack: Next, React, TypeScript, JavaScript, Tailwind, Styled Components, HTML, CSS \n
+Tech stack: Next, React, TypeScript, JavaScript, Tailwind, Styled Components, HTML, CSS<br />
 Version Control: Git, GitHub
 
 Who I Am:
